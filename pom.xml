@@ -4,7 +4,7 @@
   <groupId>com.insightfullogic</groupId>
   <artifactId>lambda-behave-examples</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <name>lambda-behave-examples</name>
   <url>http://maven.apache.org</url>
 
